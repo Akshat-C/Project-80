@@ -50,13 +50,13 @@ button {
 	width: 60px;
 	font-size: 14px;
 }
+#sort_button{
+	height: 40px;
+}
 input {
 	width: 250px;
 	background-color: #DBE2EF;
 	color: #3F72AF;
 	height: 25px;
 	font-size: 14px;
-}
-#sort_button{
-	height: 40px;
 }
