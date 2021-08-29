@@ -31,3 +31,29 @@ input
 	border-radius: 10px;
     width: 50%;
 }
+body {
+	background-color: #DBE2EF;
+	color: #112D4E;
+}
+h3 {
+	font-size: 32px;
+}
+.line {
+	width: 750px;
+	background-color: #3F72AF;
+	height: 1px;
+}
+button {
+	background-color: #DBE2EF;
+	color: #112D4E;
+	height: 25px;
+	width: 60px;
+	font-size: 14px;
+}
+input {
+	width: 250px;
+	background-color: #DBE2EF;
+	color: #3F72AF;
+	height: 25px;
+	font-size: 14px;
+}
